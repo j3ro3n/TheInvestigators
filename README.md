@@ -6,6 +6,6 @@ Opdracht: ELU-4.2 leerjaar 2022 / 2023
 
 In opdracht van: Avans Hogeschool te Breda
 
-Uitgewerkt door: C. Commeren en W.H. Buchholtz
+Uitgewerkt door: R. Commeren en W.H. Buchholtz
 
 Documentatie Wiki: https://github.com/j3ro3n/TheInvestigators/wiki
